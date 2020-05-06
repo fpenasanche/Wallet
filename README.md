@@ -1,7 +1,13 @@
-
-
-
 # wallet Laravel
+
+Bienvenidos a Wallet Laravel!
+
+Este proyecto contiene:
+
+Generar una llave privada con las 12 palabras semilla, emial y la hora
+Validacion de datos para que el coordinador revise la informacion de la wallet
+
+
 composer install
  ----solo para la primera vez que entra al proyecto en un pc nuevo
 
