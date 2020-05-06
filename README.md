@@ -1,7 +1,7 @@
 
 
 
-# walletDiegoFuncionando
+# wallet Laravel
 composer install
  ----solo para la primera vez que entra al proyecto en un pc nuevo
 
