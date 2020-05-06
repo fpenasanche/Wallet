@@ -11,4 +11,4 @@ php artisan migrate
 
 
 url para generar llave web (No repetir correo)
-http://localhost/wallet/public/generarllaveWeb/probandodesdelaweb/sergio@web.com1/3000
+http://localhost/wallet/public/generarllaveWeb/probandodesdelaweb/diego@web.com1
