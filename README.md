@@ -4,7 +4,7 @@ Bienvenidos a Wallet Laravel!
 
 Este proyecto contiene:
 
-Generar una llave privada con las 12 palabras semilla, emial y la hora
+Generar una llave privada con las 12 palabras semilla, email y la hora
 Validacion de datos para que el coordinador revise la informacion de la wallet
 
 
