@@ -7,6 +7,8 @@ Este proyecto contiene:
 Generar una llave privada con las 12 palabras semilla, email y la hora
 Validacion de datos para que el coordinador revise la informacion de la wallet
 
+Para que elproyecto funcione necesita tener en cuenta la ejecucion de las siguientes lineas
+
 
 composer install
  ----solo para la primera vez que entra al proyecto en un pc nuevo
