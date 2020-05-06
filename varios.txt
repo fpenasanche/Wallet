@@ -1,7 +1,8 @@
-# walletDiegoFuncionando
 composer install
  ----solo para la primera vez que entra al proyecto en un pc nuevo
 
+php artisan key:generate
+php artisan cache:clear
 
 crear una tabla en la base llamada wallet
 en laravel en el archivo .env configurar credenciales de la db
